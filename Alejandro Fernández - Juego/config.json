@@ -1,0 +1,11 @@
+{
+  "cantidad_preguntas": 7,
+  "vidas_iniciales": 3,
+  "puntaje_inicial": 0,
+  "monedas_iniciales": 0,
+  "aciertos": 0,
+  "errores": 0,
+  "tiempos_respuesta": [],
+  "path_json": "C:\\Users\\aleca\\OneDrive\\Escritorio\\Alejandro Fernández - Terminal\\estadisticas.json",
+  "costo_vida": 3
+}
